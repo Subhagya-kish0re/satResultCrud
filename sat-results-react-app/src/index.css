@@ -1,0 +1,12 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: url("/src/assests/bgimg1.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh; /* Ensure full height of the viewport */
+  font-family: "Arial", sans-serif; /* Change the font family as needed */
+}
